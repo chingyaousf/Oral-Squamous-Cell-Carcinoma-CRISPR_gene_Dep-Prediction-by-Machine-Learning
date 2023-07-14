@@ -1,4 +1,4 @@
-# Oral-Squamous-Cell-Carcinoma-CRISPR_gene_Dep-Prediction-by-ML
+# Machine Learning Prediction of gene dependency in Oral Squamous Cell Carcinoma
 
 ## Project Overview:
 
